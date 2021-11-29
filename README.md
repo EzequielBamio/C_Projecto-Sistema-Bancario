@@ -74,11 +74,6 @@ typedef struct
 ## Autor ✒️
 
 * [EzequielBamio](https://github.com/EzequielBamio) - *Desarrollador*
- 
- <p align="center">
-<br>
-<a href="https://drive.google.com/file/d/1bb-wbcOZ2OE20MRyFDtz6ReMP7zoDjWG/view?usp=sharing"><img src="https://img.shields.io/badge/PROBAR_EL_PROYECTO_(.EXE)-88AE4B.svg?&style=for-the-badge&logo=Google-Drive&logoColor=white" alt="PROBAR EL PROYECTO (.EXE)"/></a>&nbsp;
-</p>
 
 ---
 
